@@ -1,5 +1,15 @@
 """
-MS Dhoni is a grade A player according to BCCI Central Contracts in 2016. MSD's net worth in 2016 is around 31 million and is said to be the richest Indian cricketer.
-Apart from his salary as an Indian cricketer, Dhoni endorses various popular brands and earns a large amount from endorsements. Besides that individual and team bonuses are also given on the basis of individual and team performances. So precisely the sources of income for Dhoni are from - Salary, Bonuses and Awards through Winning and Endorsements.
-Write a program that finds Dhoni's percentage of income earned from each of the 3 individual sources.
+MS Dhoni aged X years, is a Cancerian, born with very strong Mars in his birth chart. Notably, Mars is the ruling planet for sports. Write a program to get the age of Dhoni as an integer and display the same.
+Input Format:
+Input is an integer that corresponds to the age of Dhoni.
+Output Format:
+Display the age.
+Refer sample Input and Output for formatting specifications.
+[All the text in bold corresponds to the Input]
+Sample Input and Output:
+Enter the age:
+35
+Age of Dhoni is 35
 """
+a=int(input())
+print("Age of Dhoni is",a)
